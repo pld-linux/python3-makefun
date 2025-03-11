@@ -9,7 +9,7 @@ Summary:	Small library to dynamically create Python functions
 Summary(pl.UTF-8):	Mała biblioteka do dynamicznego tworzenia funkcji w Pythonie
 Name:		python-makefun
 Version:	1.15.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/makefun/
